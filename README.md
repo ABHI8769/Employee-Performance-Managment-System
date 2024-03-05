@@ -72,7 +72,4 @@ This project is a backend application built using Node.js and Express. It serves
 
 ---
 
-### Production Deployment:
-
-If in production mode, the application serves the frontend build located in the `frontend/build` directory. Ensure the frontend is properly built before deploying.
 
