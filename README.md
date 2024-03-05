@@ -18,8 +18,7 @@ This project is a backend application built using Node.js and Express. It serves
 1. Clone the repository:
 
    ```bash
-   git clone 
-https://github.com/ABHI8769/Employee-Performance-Managment-System.git   
+   git clone https://github.com/ABHI8769/Employee-Performance-Managment-System.git   
 cd [project_directory]
    ```
 
