@@ -1,7 +1,7 @@
 
 # Project README
 
-## Project Name: [Specify Project Name]
+## Project Name: Employee Task Management System 
 
 ### Author: Abhijeet Goswami
 
@@ -18,8 +18,8 @@ This project is a backend application built using Node.js and Express. It serves
 1. Clone the repository:
 
    ```bash
-   git clone [repository_url]
-   cd [project_directory]
+   git clone 
+https://github.com/ABHI8769/Employee-Performance-Managment-System.git   cd [project_directory]
    ```
 
 2. Install dependencies:
@@ -76,12 +76,3 @@ This project is a backend application built using Node.js and Express. It serves
 
 If in production mode, the application serves the frontend build located in the `frontend/build` directory. Ensure the frontend is properly built before deploying.
 
----
-
-### License:
-
-[Specify License Type]
-
----
-
-Feel free to contact the author, Abhijeet Goswami, for any inquiries or issues related to the project. Happy coding!
