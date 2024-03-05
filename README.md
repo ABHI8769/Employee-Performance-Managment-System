@@ -48,7 +48,7 @@ This project is a backend application built using Node.js and Express. It serves
   - `deleteEmployee.js`: Deletes employee records.
 
 - **Main File:**
-  - `app.js`: Entry point of the application.
+  - `index.js`: Entry point of the application.
 
 ---
 
